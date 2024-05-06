@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **vaishnavsk8804@gmail.com**
 
-- ⚡ Fun fact that **I am a Human.**
+- ⚡ Fun fact that **I am a Programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
