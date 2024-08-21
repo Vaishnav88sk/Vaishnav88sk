@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Kale</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vaishnav_sk_" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnav_sk_?logo=twitter&style=for-the-badge" alt="vaishnav_sk_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart, Android, Node js**
+- 🌱 I’m currently learning **AWS, Docker, Flutter, Dart, Android, Node js**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **AWS, Linux, Flutter, Dart**
 
 - 📫 Reach me at **vaishnavsk8804@gmail.com**
 
