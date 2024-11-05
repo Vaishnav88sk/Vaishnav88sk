@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Kale</h1>
-<h4 align="center">Certified AWS Solution Architect Associate</h4>
-<p  style="margin-bottom:40px">  </p>
+<h4 align="center" style="margin-bottom:40px">Certified AWS Solution Architect Associate</h4>
+<p  >  </p>
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
