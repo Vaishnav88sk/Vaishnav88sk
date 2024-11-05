@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Vaishnav_sk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnav_sk_" height="30" width="40" /></a>
+<a href="https://x.com/Vaishnav_sk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnav_sk_" height="40" width="40" /></a> &nbsp
 <a href="https://linkedin.com/in/vaishnavkale88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavkale88" height="40" width="40" /></a> &nbsp
 <a href="https://stackoverflow.com/users/vaishnav88sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
-<a href="https://www.leetcode.com/vaishnav88sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav88sk" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/vaishnav88sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
