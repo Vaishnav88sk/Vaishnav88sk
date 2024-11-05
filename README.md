@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Kale</h1>
 <!-- <h3 align="center">A programmer from India</h3> -->
 
-<p align="left"> <a href="https://twitter.com/vaishnav_sk_" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnav_sk_?logo=twitter&style=for-the-badge" alt="vaishnav_sk_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p>
 
 - 🌱 I’m currently learning **Kubernetes, Node js**
 
