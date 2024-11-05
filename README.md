@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/vaishnav_sk_" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnav_sk_?logo=twitter&style=for-the-badge" alt="vaishnav_sk_" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Docker, Node js**
+- 🌱 I’m currently learning **Kubernetes, Node js**
 
-- 💬 Ask me about **AWS, Terraform (IaaC), Linux, Flutter**
+- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Linux, Flutter**
 
 - 📫 Reach me at **vaishnavsk8804@gmail.com**
 
