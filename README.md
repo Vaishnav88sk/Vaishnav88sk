@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Node js**
 
-- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Linux, Flutter**
+- 💬 Ask me about **AWS, Terraform (IaaC), Docker, Jenkins, Linux, Flutter**
 
 - 📫 Reach me at **vaishnavsk8804@gmail.com**
 
