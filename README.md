@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Kale</h1>
-<!-- <h3 align="center">A programmer from India</h3> -->
+<h3 align="center">Certified AWS Solution Architect Associate</h3>
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
