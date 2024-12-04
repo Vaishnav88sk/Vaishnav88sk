@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes, Node js**
+- 🌱 I’m currently learning **Kubernetes, Go Lang**
 
 - 💬 Ask me about **AWS, Terraform (IaC), Docker, Jenkins, Linux, Flutter**
 
