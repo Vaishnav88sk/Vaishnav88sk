@@ -9,7 +9,7 @@
 - 💬 Ask me about **AWS, Terraform (IaC), Docker, Jenkins, Linux**
 
 - 📫 Reach me at **vaishnavsk8804@gmail.com**
--![](https://komarev.com/ghpvc/?username=Vaishnav88sk&color=green&style=for-the-badge)
+- ![](https://komarev.com/ghpvc/?username=Vaishnav88sk&color=green&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
