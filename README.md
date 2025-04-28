@@ -46,3 +46,8 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/> </a> &nbsp </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnav88sk&show_icons=true&locale=en&layout=compact" alt="vaishnav88sk" /></p>
+
+<!-- <h3 align="left">Github Stats:</h3>  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=Vaishnav88sk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> -->
