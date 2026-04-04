@@ -1,5 +1,5 @@
 <h1 align="center">Vaishnav Kale</h1>
-<h5 align="center" >Site Reliabilty Engineer | DevOps | AWS Certified</h5>
+<h5 align="center" >Software Engineer (Site Reliability) | DevOps | AWS Certified</h5>
 <p  >  </p>
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
