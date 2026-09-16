@@ -1,7 +1,7 @@
 <h1 align="center">Vaishnav Kale</h1>
 
 <p align="center">
-Software Engineer (Site Reliability) | DevOps | AWS Certified
+Software Engineer (Site Reliability) | DevOps | Certified Kubernetes Administrator (CKA) | AWS Certified
 </p>
 
 ---
